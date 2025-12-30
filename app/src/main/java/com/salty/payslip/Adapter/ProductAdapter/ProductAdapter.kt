@@ -11,6 +11,7 @@ import com.salty.payslip.model.ProductItem
 
 class ProductAdapter(private val items: List<Any>) :
     RecyclerView.Adapter<ProductAdapter.ItemViewHolder>() {
+        
 
     companion object {
         const val TYPE_HEADER = 0
