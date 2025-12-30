@@ -38,8 +38,9 @@ Ideal for freelancers, small businesses, and quick billing
 https://github.com/user-attachments/assets/dcc90188-10c1-4b61-86c7-06d8a8b9ca41
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/243af711-10a8-4796-80de-a8849f723e27](https://github.com/user-attachments/assets/74595535-7c38-406c-924e-7952ce76a8c5" 
-         controls 
+  <video src="[https://github.com/user-attachments/assets/243af711-10a8-4796-80de-a8849f723e27](https://github.com/user-attachments/assets/74595535-7c38-406c-924e-7952ce76a8c5](https://github.com/user-attachments/assets/dcc90188-10c1-4b61-86c7-06d8a8b9ca41
+)" 
+        controls 
          style="max-width: 100%; border-radius: 12px;">
   </video>
 </div>
